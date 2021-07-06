@@ -4,7 +4,7 @@ This is my first GUI project using python tkinter which display menu of hotel.
 <h1 align="center">Login Window<br><img src="login_win.jpg">
 <hr>
 <h4 align="center">If a new user run this application he has to regiter himself into the system.<br>
-<h2 align="center">New User<br><img src="reg_wind.jpg">
+<h2 align="center">New User<br><img src="reg_win.jpg">
 <hr>
 <h4 align="center">In case of forgotten password,the user can reset his password by giving his correct username.When the username provided by the user matched to the database username then a forgot window will be opened which offer user to reset his password!<br>
 <h3 align="center">Reset Password<br><img src="forgot_pass.jpg">
