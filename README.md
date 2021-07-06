@@ -7,7 +7,6 @@ This is my first GUI project using python tkinter which display menu of hotel.
 <h2 align="center">New User<br><img src="reg_wind.JPG">
 <hr>
 <h4 align="center">In case of forgotten password,the user can reset his password by giving his correct username.When the username provided by the user matched to the database username then a forgot window will be opened which offer user to reset his password!<br>
-<h3 align="center">Reset Password<br><img src="forgot_pass.jpg">
 <hr>
 <h4 align="center">If user provide correct information,then the system will access the user to the main window of the Hotel Management system.<br>
 In main Window there are five option on the top the dashboard.
@@ -34,4 +33,3 @@ When a user Click on the
 <h3 align="center">Pop up message on Logout<br><img src="logout_msg.jpg">
 <hr>
 <h3 align="center">Pop-up message of Thank You<br><img src="thansk_msg.jpg">
-<h4 align="center">Pop-up message of Thank You<br><img src="thansk_msg.jpg">
