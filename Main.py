@@ -1,5 +1,4 @@
-#Semester Project By ZAIN ALI
-#SP21-BCS-095
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
