@@ -1,8 +1,8 @@
 # GUI-PROJECT HOTEL MANAGEMENT SYSTEM PROGRAMMED AND DESIGNED BY ZAIN ALI
-<h1 align="center">Login Window<br><img src="login_win.jpg">
-<h2 align="center">New User<br><img src="reg_wind.JPG">
+<h3 align="center">Login Window<br><img src="login_win.jpg">
+<h3 align="center">New User<br><img src="reg_wind.JPG">
 <br>
-<h2 align="center">Main Dashboard<br>
+<h3 align="center">Main Dashboard<br>
 <img src="main_win.jpg">
 <h2 align="center">Costumer Dashboard<br><img src="cust_win.jpg">
 <hr>
